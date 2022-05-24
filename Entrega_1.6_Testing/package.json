@@ -1,0 +1,16 @@
+{
+  "name": "sprint_1.6_testing",
+  "version": "1.0.0",
+  "description": "Sprint 1.6. - TDD practice using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "jest",
+    "nodejs"
+  ],
+  "author": "Cristina Carrillo",
+  "license": "ISC"
+}
