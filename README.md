@@ -1,7 +1,10 @@
-# IT_Academy_Sprint1
+# Sprint1: Node Basics
 
-*IT Academy/Barcelona* Activa Coding Program - Concentration: Backend development with NodeJs. 
-This folder contains a list of exercises to practice Javascript syntax and core concepts of NodeJs.
+*IT Academy* Barcelona Activa* Coding Program. 
+
+Concentration: *Back-end development with NodeJs. 
+
+This folder contains a list of exercises to practice Javascript syntax and core concepts of Node.js.
 
 ## **Contents**
 - 1.1. Functions and Template Literals 
