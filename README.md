@@ -1,10 +1,6 @@
 # Sprint1: Node Basics
 
-*IT Academy* Barcelona Activa* Coding Program. 
-
-Concentration: *Back-end development* with NodeJs. 
-
-This folder contains a list of exercises to practice Javascript syntax and core concepts of Node.js.
+Node.js is an open-source JavaScript runtime environment used to develop server-side applications and tools. In this introductory unit, we'll be introduced to core concepts of Node.js and practice intermediate and advanced-level JavaScript using Node. Unit contents listed below.
 
 ## **Contents**
 
